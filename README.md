@@ -5,3 +5,6 @@ This is a Python Tkinter Application created for school students to educate them
 My aim for the project is that I integrate even more stories and more information and make it accessible very easily across all the curriculums. Design the application in such a way that it aligns with school curriculums so that it could be integrated by boards for better knowledge of students.
 
 In this project I have put 12 stories 3 for each. You can easily add more stories and related images to the same. 
+
+Please do contact if any doubts 
+  ayushpallod07@gmail.com
